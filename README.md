@@ -1,6 +1,6 @@
 # ⚡ AntiGravity Analytics
 
-![AntiGravity Analytics](https://img.shields.io/badge/Status-Production%20Ready-success) ![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Socket.io-blue)
+**Live Demo:** [https://realtime-analytics-dashboard-dp6m.vercel.app/](https://realtime-analytics-dashboard-dp6m.vercel.app/)
 
 **AntiGravity Analytics** is a high-performance, real-time dashboard designed to visualize complex system metrics with zero latency. It demonstrates a **Service-Oriented Architecture** capable of handling high-throughput data streams while maintaining a silky-smooth, glassmorphic UI.
 
