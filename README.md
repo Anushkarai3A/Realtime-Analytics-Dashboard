@@ -1,10 +1,10 @@
-# ⚡ AntiGravity Analytics
+#  AntiGravity Analytics
 
 **Live Demo:** [https://realtime-analytics-dashboard-dp6m.vercel.app/](https://realtime-analytics-dashboard-dp6m.vercel.app/)
 
 **AntiGravity Analytics** is a high-performance, real-time dashboard designed to visualize complex system metrics with zero latency. It demonstrates a **Service-Oriented Architecture** capable of handling high-throughput data streams while maintaining a silky-smooth, glassmorphic UI.
 
-## 🚀 Live Demo Features
+##  Live Demo Features
 
 - **Real-Time Data Streams**: Powered by **Socket.io**, delivering live updates on active users, revenue, and system health every 2 seconds.
 - **Glassmorphism UI**: A futuristic, premium interface built with **Tailwind CSS** and **Framer Motion**.
@@ -15,7 +15,7 @@
     - **Global Error Handling**: Centralized error management for high availability.
     - **Graceful Shutdown**: Safety mechanisms for data integrity.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** (Vite)
@@ -30,7 +30,7 @@
 - **Winston** (Logging)
 - **Helmet & CORS** (Security)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 realtime-analytics-dashboard/
@@ -47,7 +47,7 @@ server/
 │   └── utils/              # Logger, Error classes, Response formatters
 ```
 
-## 🚦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -74,7 +74,7 @@ server/
     npm run dev
     ```
 
-## 🎓 Why This Project?
+##  Why This Project?
 This project serves as a demonstration of **Senior-Level Engineering Principles**:
 - **Separation of Concerns**: Clean architecture separating transport, logic, and data layers.
 - **Scalability**: Designed to handle adding real database connections (MongoDB/Postgres) without refactoring the core logic.
